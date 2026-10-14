@@ -19,7 +19,7 @@ Estudante de **Sistemas de Informação** (Anhembi Morumbi) e estagiária de **S
 | Projeto | Descrição |
 |---|---|
 | [terminal-bancario](https://github.com/gabriellamarques-dev/terminal-bancario) | Simulador de terminal bancário em Java (menu, depósito, saque e validações) |
-| Gestão de Estacionamento | Em breve |
+| [gestao-estacionamento](https://github.com/gabriellamarques-dev/gestao-estacionamento) | Sistema em Java para cálculo de tarifas, desconto para elétricos e relatório de fechamento |
 
 ## Ferramentas
 ![Java](https://skillicons.dev/icons?i=java,git,github)
